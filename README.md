@@ -30,7 +30,7 @@ SLD 内での実機動作確認に必要な手順・スクリプト等を整理�
   (オフライン用のPDFファイルもこちらからダウンロードできます)
 - [セットアップファイルに含まれるファイル](/Setup/)  
   (サンプルコード等を個別にダウンロードできます)
-- [最新のセットアップファイル及びPDFドキュメント一式(latest release)](https://github.com/sld-nb-haptic/dev-haptic/releases/latest/download/AUTD3_all_1.00.zip) (約562MB)  
+- [最新のセットアップファイル及びPDFドキュメント一式(latest release)](https://github.com/sld-nb-haptic/release-haptic/releases/latest/download/AUTD3_all_1.00.zip) (約562MB)  
 
 
 ## 動作環境
@@ -67,7 +67,7 @@ AUTD3は以下のライセンスで提供されています:
 利用により発生した損害について、SLDは一切の責任を負いません。
 
 ## リリース履歴
-- 2026/06/09 Ver 1.00 初版 [一括ダウンロード](https://github.com/sld-nb-haptic/dev-haptic/releases/download/v1.0.0/AUTD3_all_1.00.zip) (約562MB)  
+- 2026/06/09 Ver 1.00 初版 [一括ダウンロード](https://github.com/sld-nb-haptic/release-haptic/releases/download/v1.0.0/AUTD3_all_1.00.zip) (約562MB)  
 
 
 ## 注意事項
