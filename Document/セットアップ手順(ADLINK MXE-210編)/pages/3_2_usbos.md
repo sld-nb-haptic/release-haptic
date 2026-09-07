@@ -3,7 +3,7 @@
 ### メディア作成ツールのダウンロード  
 下記よりメディア作成ツール(Rufus)を作業用PC内にダウンロードします。  
 　　[Rufus Portable版 ver 4.11  (正式配布先)](https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11p.exe)  
-　　[Rufus Portable版 ver 4.11  (コピー)](https://github.com/sld-nb-haptic/dev-haptic/blob/main/Download/rufus-4.11p.exe)
+　　[Rufus Portable版 ver 4.11  (コピー)](https://github.com/sld-nb-haptic/release-haptic/blob/main/Download/rufus-4.11p.exe)
 
 
 下記ファイルがダウンロードされます。（2MBほどです）  
@@ -29,7 +29,7 @@
 
 ### OSインストール用USBメディアの作成  
 下記手順でOSインストール用USBメディアを作成します。  
-（下記はUSBメディア作成用ツールRufusの画面です)  
+（下記はUSBメディア作成用ツールRufusの画面です）
 
 ![rufus画面](./image/rufus_1.png)  
 
