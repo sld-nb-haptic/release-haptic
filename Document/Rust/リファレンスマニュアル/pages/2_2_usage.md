@@ -18,6 +18,7 @@ $ sudo ./target/debug/sample01					            実行
 ``` sh
 $ cargo add autd3 --offline					                autd3ライブラリ追加
 $ cargo add autd3-link-ethercrab --offline		            ethercrabライブラリ追加
+$ cargo build --offline                                     ビルド
 ```
 
 入門キットでは下記クレートが事前ダウンロードされており、インターネットに接続することなく使用できる。  
@@ -26,3 +27,6 @@ autd3
 autd3-gain-holo
 autd3-link-ethercrab
 ```
+
+ただし自動的にインターネット経由でダウンロードが行われないようにするため、  
+「--offline」オプションを指定する必要がある。

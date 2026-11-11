@@ -17,8 +17,8 @@ $ cargo add autd3 --offline					    autd3ライブラリ追加
 $ cargo add autd3-link-ethercrab --offline		ethercrabライブラリ追加
 
     GSPAT等の機能を使用する場合は、下記でライブラリを追加
-$ cargo add autd3-gain-holo
+$ cargo add autd3-gain-holo --offline
 
-$ cargo build							        ビルド
+$ cargo build --offline					        ビルド
 $ sudo ./target/debug/<your-project-name>       実行
 ```

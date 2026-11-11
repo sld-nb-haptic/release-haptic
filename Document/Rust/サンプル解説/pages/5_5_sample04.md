@@ -15,7 +15,7 @@ $ cd sample04							                    プロジェクトフォルダに移動
 $ cp ~/Desktop/RustSample/Sample04_bessel.rs src/main.rs	サンプルコードのコピー
 $ cargo add autd3 --offline					                autd3ライブラリ追加
 $ cargo add autd3-link-ethercrab --offline			        ethercrabライブラリ追加
-$ cargo build							                    ビルド
+$ cargo build --offline 				                    ビルド
 $ sudo ./target/debug/sample04					            実行
 ```
 

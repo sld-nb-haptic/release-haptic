@@ -56,7 +56,7 @@ $ cd rusttest
 $ cargo add autd3 --offline
 $ cargo add autd3-link-ehtercrab --offline
 $ cp ~/Desktop/RustSample/Sample01_single.rs src/main.rs
-$ cargo build
+$ cargo build --offline
 ```
 
 下記の様な出力となれば、ビルドは成功。  

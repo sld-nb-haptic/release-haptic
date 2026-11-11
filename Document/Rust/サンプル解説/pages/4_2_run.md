@@ -51,8 +51,12 @@ $ cargo add autd3-gain-holo --offline
 
 下記コマンドにてビルドを行います。  
 ``` sh
-$ cargo build
+$ cargo build --offline
 ```
+オフライン環境でのビルドが行われる様に、  
+ビルド時も「--offline」オプションを指定を指定してください。
+
+
 
 ビルドに成功した場合、下記に実行ファイルが作成されます。  
 ```

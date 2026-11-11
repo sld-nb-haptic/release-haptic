@@ -100,3 +100,13 @@ cargo add autd3 --offline
 cargo add autd3-link-ethercrab --offline
 cargo add autd3-gain-holo --offline
 ```
+
+---
+
+### ビルド
+ビルドは「cargo build」で行えますが、  
+確実にダウンロード済みのキャッシュが使用されるように 「``` --offline ```」オプションを指定します。
+
+```
+cargo build --offline
+```

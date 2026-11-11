@@ -19,7 +19,7 @@ $ cp ~/Desktop/RustSample/Sample02_multi.rs src/main.rs		サンプルコード�
 $ cargo add autd3 --offline					                autd3ライブラリ追加
 $ cargo add autd3-link-ethercrab --offline			        ethercrabライブラリ追加
 $ cargo add autd3-gain-holo --offline				        gain-holoライブラリ追加
-$ cargo build							                    ビルド
+$ cargo build --offline					                    ビルド
 $ sudo ./target/debug/sample02					            実行
 ```
 
